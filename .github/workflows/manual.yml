@@ -4,9 +4,9 @@ on:
         inputs:
             greeting:
                 type: string
-                defalt: Hello
+                default: 'Hello'
                 required: true
-                decscription: A cheerful word
+                description: 'A cheerful word'
 jobs:
     run:
         runs-on: ubuntu-latest
