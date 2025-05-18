@@ -1,4 +1,4 @@
-name: YAML Error
+name: 3 YAML Error
 on: push
 jobs:
     run:

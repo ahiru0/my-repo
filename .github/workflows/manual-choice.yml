@@ -1,4 +1,4 @@
-name: Manual Choice
+name: 5 Manual Choice
 on:
     workflow_dispatch:
         inputs:
