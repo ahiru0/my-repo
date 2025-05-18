@@ -1,4 +1,4 @@
-name: Schedule
+name: 6 Schedule
 on: 
     schedule:
         - cron: '*/15 * * * *'

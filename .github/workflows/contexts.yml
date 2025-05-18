@@ -1,4 +1,4 @@
-name: Contexts
+name: 7 Contexts
 on: push
 jobs:
     print:
