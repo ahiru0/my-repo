@@ -8,3 +8,5 @@ jobs:
             - run: echo "${{ github.head_ref }}"
             - run: echo "${{ github.workspace }}"
             - run: echo "${{ github.actor }}"
+            - run: echo "${{ runner.name }}"
+            - run: echo "${{ runner.os }}"
